@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Jorge 👋
 
-<!--
-**jorgesd97/jorgesd97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist with 4+ years in banking and retail, blending machine learning with commercial and marketing strategy to drive measurable business impact — from fraud prevention to growth.
+Lately I've gone deep into applied Generative AI: production RAG architectures, agentic workflows with LangGraph, and MLOps infrastructure.
 
-Here are some ideas to get you started:
+I like turning messy business problems into scalable systems that actually ship and solve.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently building: an AI sales-agent platform for Small business — multi-tenant, in production, powered by multi-step agentic workflow.
+
+🧠 Focus areas: Machine Learning · Generative AI · RAG · LLM Agents · MLOps
+
+🛠️ Tools I work with:
+
+Python PyTorch Scikit-Learn SQL · LangChain LangGraph FastAPI Vertex AI Docker · GCP AWS BigQuery PySpark
+
+📫 Reach me: [LinkedIn](https://linkedin.com/in/JorgeSoto) · [jorgesotocontreras.c@gmail.com](mailto:jorgesotocontreras.c@gmail.com)
+
+📍 Lima, Perú
