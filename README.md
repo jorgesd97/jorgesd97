@@ -5,7 +5,7 @@ Lately I've gone deep into applied Generative AI: production RAG architectures, 
 
 I like turning messy business problems into scalable systems that actually ship.
 
-🔭 Currently building and in production: an AI sales-agent platform for Small businesses — multi-tenant, in production, powered by a multi-step agentic workflow.
+🔭 Currently building: an AI sales-agent platform for Small businesses — multi-tenant, in production, powered by a multi-step agentic workflow.
 
 🧠 Focus areas: Machine Learning · Generative AI · RAG · LLM Agents · MLOps
 
